@@ -1,0 +1,29 @@
+# Dart / Flutter generated files
+# https://dart.dev/guides/libraries/private-files
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Keep pubspec.lock committed for this application/package.
+# pubspec.lock
+
+# IDE files
+.idea/
+*.iml
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
